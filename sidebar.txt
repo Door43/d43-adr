@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[adr:home|Door43 (adr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-adr|d43-adr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-adr/archive/master.zip|d43-adr.zip]]
+
+**Recent Changes**
+{{changes>ns = adr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/adr|Ethnologue data]]
+
